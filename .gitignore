@@ -1,0 +1,6 @@
+.venv/
+data/raw/
+.ipynb_checkpoints/
+__pycache__/
+
+data/processed/vehicle_recalls.csv

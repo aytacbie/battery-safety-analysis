@@ -1,0 +1,201 @@
+sample_id,CAMPNO,stratum,battery_any,fire_text,battery_fire,battery_type
+1,20V601000,A,True,True,True,HV traction battery
+2,12V452000,A,True,True,True,Battery (text only)
+3,18V215000,A,True,True,True,12V/24V/48V battery
+4,16V009000,D,False,False,False,Battery (text only)
+5,19V598000,C,False,True,False,Battery (text only)
+6,23V303000,B,True,False,False,HV traction battery
+7,26V030000,A,True,True,True,HV traction battery
+8,19V665000,D,False,False,False,Battery (text only)
+9,11V107000,D,False,False,False,Battery (text only)
+10,18V925000,A,True,True,True,12V/24V/48V battery
+11,22V418000,A,True,True,True,Battery (text only)
+12,14V305000,D,False,False,False,Battery (text only)
+13,15V337000,D,False,False,False,Battery (text only)
+14,26V582000,A,True,True,True,HV traction battery
+15,15V186000,D,False,False,False,Battery (text only)
+16,12V498000,D,False,False,False,Battery (text only)
+17,13V251000,A,True,True,True,Battery (text only)
+18,20V343000,D,False,False,False,Battery (text only)
+19,22V271000,A,True,True,True,12V/24V/48V battery
+20,23V168000,A,True,True,True,HV traction battery
+21,25V665000,B,True,False,False,Battery (text only)
+22,25V326000,A,True,True,True,12V/24V/48V battery
+23,10V319000,C,False,True,False,Battery (text only)
+24,25V534000,A,True,True,True,12V/24V/48V battery
+25,16V897000,A,True,True,True,Battery (text only)
+26,20V801000,A,True,True,True,Battery (text only)
+27,24V625000,A,True,True,True,HV traction battery
+28,22V548000,A,True,True,True,HV traction battery
+29,24V157000,C,False,True,False,Battery (text only)
+30,24V389000,C,False,True,False,Battery (text only)
+31,20V701000,A,True,True,True,HV traction battery
+32,13V589000,A,True,True,True,Battery (text only)
+33,23V540000,A,True,True,True,HV traction battery
+34,19V609000,A,True,True,True,12V/24V/48V battery
+35,20V428000,D,False,False,False,Battery (text only)
+36,22V808000,B,True,False,False,Battery (text only)
+37,15V293000,C,False,True,False,Battery (text only)
+38,11V085000,C,False,True,False,Battery (text only)
+39,18V917000,D,False,False,False,Battery (text only)
+40,10V394000,A,True,True,True,12V/24V/48V battery
+41,26V103000,A,True,True,True,HV traction battery
+42,21V247000,D,False,False,False,Battery (text only)
+43,24V135000,A,True,True,True,HV traction battery
+44,15V589000,A,True,True,True,Battery (text only)
+45,21V110000,B,True,False,False,HV traction battery
+46,19V200000,D,False,False,False,Battery (text only)
+47,25V655000,A,True,True,True,HV traction battery
+48,22V164000,A,True,True,True,12V/24V/48V battery
+49,16V116000,C,False,True,False,Battery (text only)
+50,25V275000,A,True,True,True,HV traction battery
+51,25V127000,B,True,False,False,Battery (text only)
+52,19V743000,D,False,False,False,Battery (text only)
+53,19V485000,A,True,True,True,12V/24V/48V battery
+54,11V029000,C,False,True,False,Battery (text only)
+55,22V204000,B,True,False,False,Battery (text only)
+56,11V219000,A,True,True,True,12V/24V/48V battery
+57,10V407000,C,False,True,False,Battery (text only)
+58,23V025000,A,True,True,True,Battery (text only)
+59,15V711000,D,False,False,False,Battery (text only)
+60,25V184000,A,True,True,True,HV traction battery
+61,10V044000,D,False,False,False,Battery (text only)
+62,26V503000,A,True,True,True,Battery (text only)
+63,18V725000,A,True,True,True,12V/24V/48V battery
+64,20V711000,A,True,True,True,Battery (text only)
+65,13V561000,A,True,True,True,12V/24V/48V battery
+66,14V562000,B,True,False,False,Battery (text only)
+67,18V116000,A,True,True,True,Battery (text only)
+68,17V271000,D,False,False,False,Battery (text only)
+69,19V809000,A,True,True,True,12V/24V/48V battery
+70,24V126000,C,False,True,False,Battery (text only)
+71,10V107000,A,True,True,True,12V/24V/48V battery
+72,18V217000,C,False,True,False,Battery (text only)
+73,26V058000,D,False,False,False,Battery (text only)
+74,15V688000,A,True,True,True,12V/24V/48V battery
+75,25V914000,B,True,False,False,Battery (text only)
+76,15V655000,B,True,False,False,HV traction battery
+77,20V353000,A,True,True,True,Battery (text only)
+78,17V622000,C,False,True,False,Battery (text only)
+79,19V566000,B,True,False,False,Battery (text only)
+80,18V379000,B,True,False,False,Battery (text only)
+81,26V062000,A,True,True,True,HV traction battery
+82,23V626000,A,True,True,True,HV traction battery
+83,14V014000,A,True,True,True,12V/24V/48V battery
+84,18V157000,D,False,False,False,Battery (text only)
+85,10V050000,D,False,False,False,Battery (text only)
+86,14V041000,A,True,True,True,12V/24V/48V battery
+87,10V320000,D,False,False,False,Battery (text only)
+88,13V102000,A,True,True,True,12V/24V/48V battery
+89,26V470000,D,False,False,False,Battery (text only)
+90,12V241000,A,True,True,True,HV traction battery
+91,25V382000,A,True,True,True,12V/24V/48V battery
+92,18V364000,C,False,True,False,Battery (text only)
+93,25V182000,B,True,False,False,Battery (text only)
+94,24V195000,A,True,True,True,12V/24V/48V battery
+95,22V651000,A,True,True,True,Battery (text only)
+96,24V514000,D,False,False,False,Battery (text only)
+97,24V265000,D,False,False,False,Battery (text only)
+98,23V329000,A,True,True,True,Battery (text only)
+99,10V403000,A,True,True,True,Battery (text only)
+100,25V232000,B,True,False,False,Battery (text only)
+101,25V567000,A,True,True,True,HV traction battery
+102,11V386000,A,True,True,True,12V/24V/48V battery
+103,14V128000,C,False,True,False,Battery (text only)
+104,24V354000,C,False,True,False,Battery (text only)
+105,13V257000,B,True,False,False,12V/24V/48V battery
+106,10V215000,C,False,True,False,Battery (text only)
+107,15V349000,A,True,True,True,12V/24V/48V battery
+108,14V276000,A,True,True,True,Battery (text only)
+109,26V311000,B,True,False,False,Battery (text only)
+110,25V718000,C,False,True,False,Battery (text only)
+111,16V529000,D,False,False,False,Battery (text only)
+112,26V001000,A,True,True,True,HV traction battery
+113,26V095000,D,False,False,False,Battery (text only)
+114,17V616000,D,False,False,False,Battery (text only)
+115,22V170000,A,True,True,True,Battery (text only)
+116,23V154000,B,True,False,False,12V/24V/48V battery
+117,15V481000,A,True,True,True,12V/24V/48V battery
+118,24V927000,A,True,True,True,HV traction battery
+119,11V030000,D,False,False,False,Battery (text only)
+120,20V335000,A,True,True,True,12V/24V/48V battery
+121,18V832000,A,True,True,True,Battery (text only)
+122,25V692000,B,True,False,False,12V/24V/48V battery
+123,20V148000,D,False,False,False,Battery (text only)
+124,25V132000,D,False,False,False,Battery (text only)
+125,11V523000,A,True,True,True,12V/24V/48V battery
+126,25V185000,A,True,True,True,HV traction battery
+127,13V246000,D,False,False,False,Battery (text only)
+128,10V281000,C,False,True,False,Battery (text only)
+129,16V938000,A,True,True,True,12V/24V/48V battery
+130,26V324000,A,True,True,True,Battery (text only)
+131,19V808000,D,False,False,False,Battery (text only)
+132,23V218000,A,True,True,True,HV traction battery
+133,23V207000,A,True,True,True,HV traction battery
+134,24V637000,D,False,False,False,Battery (text only)
+135,10V392000,A,True,True,True,Battery (text only)
+136,25V255000,C,False,True,False,Battery (text only)
+137,24V726000,A,True,True,True,HV traction battery
+138,21V869000,B,True,False,False,HV traction battery
+139,26V144000,A,True,True,True,Battery (text only)
+140,25V549000,C,False,True,False,Battery (text only)
+141,20V771000,D,False,False,False,Battery (text only)
+142,15V810000,D,False,False,False,Battery (text only)
+143,20V741000,D,False,False,False,Battery (text only)
+144,25V906000,A,True,True,True,Battery (text only)
+145,25V500000,A,True,True,True,12V/24V/48V battery
+146,23V512000,A,True,True,True,HV traction battery
+147,23V734000,A,True,True,True,12V/24V/48V battery
+148,25V858000,B,True,False,False,Battery (text only)
+149,11V292000,A,True,True,True,12V/24V/48V battery
+150,22V432000,A,True,True,True,Battery (text only)
+151,22V904000,D,False,False,False,Battery (text only)
+152,11V299000,D,False,False,False,Battery (text only)
+153,25V080000,A,True,True,True,HV traction battery
+154,24V395000,A,True,True,True,Battery (text only)
+155,18V250000,A,True,True,True,12V/24V/48V battery
+156,18V440000,A,True,True,True,Battery (text only)
+157,23V304000,D,False,False,False,Battery (text only)
+158,14V085000,C,False,True,False,Battery (text only)
+159,15V517000,A,True,True,True,12V/24V/48V battery
+160,16V199000,A,True,True,True,12V/24V/48V battery
+161,17V432000,D,False,False,False,Battery (text only)
+162,17V114000,C,False,True,False,Battery (text only)
+163,26V247000,D,False,False,False,Battery (text only)
+164,15V591000,D,False,False,False,Battery (text only)
+165,26V494000,A,True,True,True,HV traction battery
+166,25V055000,A,True,True,True,HV traction battery
+167,21V079000,B,True,False,False,12V/24V/48V battery
+168,26V362000,A,True,True,True,HV traction battery
+169,10V381000,D,False,False,False,Battery (text only)
+170,15V140000,A,True,True,True,12V/24V/48V battery
+171,15V241000,A,True,True,True,Battery (text only)
+172,17V584000,A,True,True,True,12V/24V/48V battery
+173,13V224000,A,True,True,True,12V/24V/48V battery
+174,26V404000,A,True,True,True,HV traction battery
+175,22V168000,D,False,False,False,Battery (text only)
+176,25V626000,D,False,False,False,Battery (text only)
+177,25V414000,C,False,True,False,Battery (text only)
+178,12V126000,A,True,True,True,12V/24V/48V battery
+179,18V136000,D,False,False,False,Battery (text only)
+180,23V003000,D,False,False,False,Battery (text only)
+181,18V553000,A,True,True,True,12V/24V/48V battery
+182,23V280000,A,True,True,True,HV traction battery
+183,16V663000,C,False,True,False,Battery (text only)
+184,18V392000,C,False,True,False,Battery (text only)
+185,21V957000,D,False,False,False,Battery (text only)
+186,12V064000,B,True,False,False,12V/24V/48V battery
+187,23V361000,A,True,True,True,12V/24V/48V battery
+188,14V192000,B,True,False,False,Battery (text only)
+189,24V183000,A,True,True,True,HV traction battery
+190,14V652000,A,True,True,True,Battery (text only)
+191,12V115000,B,True,False,False,Battery (text only)
+192,12V182000,D,False,False,False,Battery (text only)
+193,23V840000,A,True,True,True,HV traction battery
+194,26V663000,D,False,False,False,Battery (text only)
+195,15V544000,A,True,True,True,12V/24V/48V battery
+196,24V959000,B,True,False,False,Battery (text only)
+197,23V753000,A,True,True,True,12V/24V/48V battery
+198,11V453000,A,True,True,True,Battery (text only)
+199,20V457000,D,False,False,False,Battery (text only)
+200,24V546000,B,True,False,False,Battery (text only)
